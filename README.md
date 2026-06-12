@@ -34,7 +34,7 @@ Simon-Says-Game/
 ├── index.html
 ├── style.css
 ├── app.js
-├── assets / preview.png
+├── assests / preview.png
 └── README.md
 ```
 
@@ -54,7 +54,7 @@ Simon-Says-Game/
 Add a screenshot of your project here:
 
 ```md
-(./assets/preview.png)
+![Simon Says Game Screenshot](./assets/preview.png)
 ```
 
 ## 🔧 Installation
