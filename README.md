@@ -34,7 +34,8 @@ Simon-Says-Game/
 ├── index.html
 ├── style.css
 ├── app.js
-├── assests / preview.png
+├── assets/ 
+│   └── preview.png
 └── README.md
 ```
 
