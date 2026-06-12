@@ -54,7 +54,7 @@ Simon-Says-Game/
 Add a screenshot of your project here:
 
 ```md
-![Simon Says Game Screenshot](./assets/preview.png)
+![Simon Says Game Screenshot](assets/preview.png)
 ```
 
 ## 🔧 Installation
