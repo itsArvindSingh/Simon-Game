@@ -52,8 +52,6 @@ Simon-Says-Game/
 
 ## 📸 Preview
 
-Add a screenshot of your project here:
-
 
 ![Simon Says Game Screenshot](./assets/preview.png)
 
@@ -73,18 +71,6 @@ cd simon-says-game
 ```
 
 3. Open `index.html` in your browser.
-
-## 🌟 Future Improvements
-
-* Add sound effects for each button
-* Store and display high scores
-* Mobile-friendly controls
-* Difficulty levels
-* Dark mode support
-
-## 📜 License
-
-This project is open source and available under the MIT License.
 
 ---
 
