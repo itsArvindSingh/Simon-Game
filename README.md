@@ -2,8 +2,15 @@
 
 A simple and interactive **Simon Says Game** built using **HTML, CSS, and JavaScript**. The game challenges players to memorize and repeat an increasingly long sequence of colors. Each successful round adds a new color to the sequence, testing the player's memory and concentration.
 
-## Visit Site 
- https://itsarvindsingh.github.io/Simon-Game
+## 🔗 Visit Site
+
+> Click the button below to visit site
+
+<p align="center">
+  <a href="https://itsarvindsingh.github.io/Simon-Game" target="_blank">
+    <img src="https://img.shields.io/badge/🌐-Visit%20My%20GitHub%20Site-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub Site">
+  </a>
+</p>
  
 ## 🚀 Features
 
